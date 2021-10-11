@@ -1,6 +1,6 @@
 # @kanto
 
-> A monorepo for a Pokemon-inspired project.
+> A yarn workspace for a Pokemon-inspired project.
 
 ## Why?
 
