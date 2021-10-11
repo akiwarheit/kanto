@@ -1,4 +1,4 @@
-# pokedex
+# @kanto/pokedex
 
 A PokeDex app built using React Native & Typescript.
 
