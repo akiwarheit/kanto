@@ -1,6 +1,6 @@
-# kanto
+# @kanto
 
-A monorepo for a Pokemon-inspired project.
+> A monorepo for a Pokemon-inspired project.
 
 ## What is it?
 
