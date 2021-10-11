@@ -8,7 +8,6 @@ _WIP_
 
 <p align="center">
   <img src="https://github.com/akiwarheit/kanto/blob/main/packages/pokedex/ss1.png" width="280" height="600" title="Storybook 1">
-  <img src="https://github.com/akiwarheit/kanto/blob/main/packages/pokedex/ss2.png" width="280" height="600" title="Storybook 2">
 </p>
 
 # License
