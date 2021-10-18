@@ -1,0 +1,19 @@
+{
+  "name": "@kanto/joy",
+  "version": "1.0.0",
+  "description": "Baby tracker",
+  "author": "akiwarheit",
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "peerDependencies": {
+    "react": "*"
+  },
+  "devDependencies": {
+    "react": "17.0.2"
+  },
+  "files": [
+    "dist"
+  ]
+}
