@@ -7,8 +7,8 @@ import {
   View,
   ViewStyle,
 } from 'react-native';
-import {Colours, Images} from '../../../../assets';
-import {BaseStyles} from '../BaseStyles';
+import { Colours, Images } from '../../../../assets';
+import { BaseStyles } from '../BaseStyles';
 import Styles from './TouchablePill.styles';
 
 interface Props {
@@ -45,7 +45,7 @@ export default function TouchablePill(props: Props) {
         ]}>
         <Image source={Images.Subtract} style={[Styles.upperLeftPokeball]} />
         <Image source={Images.Subtract} style={[Styles.lowerRightPokeball]} />
-        <Text style={[{color: 'white'}, Styles.text]}>{props.text}</Text>
+        <Text style={[{ color: 'white' }, Styles.text]}>{props.text}</Text>
       </View>
     </TouchableOpacity>
   );

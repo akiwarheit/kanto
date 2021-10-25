@@ -7,17 +7,10 @@
   "author": "Kevin Deloria",
   "license": "MIT",
   "private": true,
-  "dependencies": {
-    "react": "17.0.2"
-  },
   "workspaces": {
     "packages": [
       "packages/*"
     ]
-  },
-  "resolutions": {
-    "react": "17.0.2",
-    "@types/react": "^17"
   },
   "devDependencies": {
     "react-native-yarn-workspaces-v2": "^0.0.2"
