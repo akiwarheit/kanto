@@ -1,6 +1,6 @@
 # @kanto
 
-> A yarn workspace for a Pokemon-inspired kata.
+> A yarn workspace for a Pokemon-inspired kata to practice hoisting dependencies.
 
 ## What?
 
