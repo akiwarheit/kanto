@@ -1,3 +1,3 @@
-# Visualise Baby Events
+# Visualise Baby Events (WIP)
 
-Visualise events gathered from Raspberry Pi.
+Visualise events gathered from Jenny Raspberry Pi.
