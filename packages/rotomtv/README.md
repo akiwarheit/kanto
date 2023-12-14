@@ -1,4 +1,4 @@
-# @kanto/rotomtv
+# @kanto/rotomtv (WIP)
 
 A custom tv launcher for the garage raspberry pi project.
 
